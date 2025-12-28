@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Dr. Sarva Jeganathan
+## Hello, I’m Dr. Sarva Jeganathan
 
 I am a **Professor of Programming and Business Systems** with over **13 years of experience teaching programming at Humber Polytechnic**, alongside extensive experience teaching business and analytics courses across higher education.
 
@@ -6,7 +6,7 @@ My work focuses on **teaching programming effectively to diverse learners**—fr
 
 ---
 
-## 🧑‍🏫 Teaching Focus
+## Teaching Focus
 
 I specialize in designing and delivering programming courses that emphasize:
 
@@ -19,7 +19,7 @@ I am particularly interested in **how students learn programming**, not just how
 
 ---
 
-## 📚 Courses & Subject Areas
+## Courses & Subject Areas
 
 **Programming & Technology**
 
@@ -37,7 +37,7 @@ I am particularly interested in **how students learn programming**, not just how
 
 ---
 
-## 🛠️ Languages, Tools & Platforms
+## Languages, Tools & Platforms
 
 * **Languages:** JavaScript, Python, C#, C++, Java
 * **Web:** HTML, CSS, DOM, APIs
@@ -46,7 +46,7 @@ I am particularly interested in **how students learn programming**, not just how
 
 ---
 
-## 📁 What You’ll Find on My GitHub
+## What You’ll Find on My GitHub
 
 This GitHub profile serves as a **teaching portfolio**, showcasing:
 
@@ -60,7 +60,7 @@ Each repository reflects **real classroom use**, not theoretical examples.
 
 ---
 
-## 🎯 Teaching Philosophy
+## Teaching Philosophy
 
 > *Good programming education is not about speed or shortcuts—it is about clarity, structure, and confidence-building.*
 
@@ -73,7 +73,7 @@ I believe effective programming instruction should:
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 * **LinkedIn:** *(https://www.linkedin.com/in/sajega/)*
 * **Teaching Portfolio / Website:** https://www.sarvajega.com/
